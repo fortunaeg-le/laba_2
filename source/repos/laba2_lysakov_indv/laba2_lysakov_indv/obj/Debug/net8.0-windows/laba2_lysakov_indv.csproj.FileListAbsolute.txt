@@ -1,0 +1,16 @@
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\bin\Debug\net8.0-windows\laba2_lysakov_indv.exe
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\bin\Debug\net8.0-windows\laba2_lysakov_indv.deps.json
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\bin\Debug\net8.0-windows\laba2_lysakov_indv.runtimeconfig.json
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\bin\Debug\net8.0-windows\laba2_lysakov_indv.dll
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\bin\Debug\net8.0-windows\laba2_lysakov_indv.pdb
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.Form1.resources
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.csproj.GenerateResource.cache
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.AssemblyInfoInputs.cache
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.AssemblyInfo.cs
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.dll
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\refint\laba2_lysakov_indv.dll
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.pdb
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\laba2_lysakov_indv.genruntimeconfig.cache
+C:\Users\я\source\repos\laba2_lysakov_indv\laba2_lysakov_indv\obj\Debug\net8.0-windows\ref\laba2_lysakov_indv.dll
