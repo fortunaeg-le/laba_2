@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laba2_lysakov_indv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1630c7d7f61c946a2c91d060e759439c0a97b46")]
 [assembly: System.Reflection.AssemblyProductAttribute("laba2_lysakov_indv")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laba2_lysakov_indv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
